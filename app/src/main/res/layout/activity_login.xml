@@ -28,7 +28,4 @@
             android:text="Stäng" />
     </LinearLayout>
 
-
-
-
 </androidx.constraintlayout.widget.ConstraintLayout>
